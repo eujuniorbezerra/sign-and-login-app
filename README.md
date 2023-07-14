@@ -3,7 +3,7 @@ Aplicativo de cadastro e login feito em Flutter. Onde pude aplicar meus conhecim
 # Tecnologias usadas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </div>
 
 ##
